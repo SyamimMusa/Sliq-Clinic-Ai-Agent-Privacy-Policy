@@ -15,7 +15,7 @@ This Privacy Notice for Saltyskins Sdn Bhd ("**We**", "**us**, or "**our**), des
 
 **What personal information do we process?** When you use our Services, we may process personal information depending on how you interact with us and the Services, the choices you make, and the products and features you use. Learn more about [personal information you disclose to use](#personal-information-you-disclose-to-us)
 
-**Do we process any sensitive personal informations?** Some of the information may be considered "special" or "sensitive" in certain jurisdictions, for example your racial or ethnic origins and religious beliefs. We may process sensitive personal information when necessary with your consent or as otherwise permitted by applicable law. Learn more about [sensitive information we process.](#information-collected-when-you-use-our-services)
+**Do we process any sensitive personal informations?** Some of the information may be considered "special" or "sensitive" in certain jurisdictions, for example your racial or ethnic origins and religious beliefs. We may process sensitive personal information when necessary with your consent or as otherwise permitted by applicable law. Learn more about [sensitive information we process.](#information-collected)
 
 **Do we collect any information from third parties?** We do not collect any information from third parties.
 
@@ -77,6 +77,9 @@ We collection personal information that you voluntarily provide to us when you e
 
 All personal information that you provide to us must be true, compelte, and accurate, and you must notify us of any changes to such personal information. 
 
+<span style="display:none">
+##information collected
+</span>
 **Information collected when you use our services**. We by default are able to access your basic Whatsapp account information, including your display name, your mobile number and any messages you sent to our Whatsapp through your own Whatsapp account.
 
 ## 2. HOW DO WE PROCESS YOUR INFORMATION?
