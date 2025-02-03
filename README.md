@@ -27,29 +27,29 @@ Want to learn more about what we do with any information we collect? Review the 
 
 ## TABLE OF CONTENTS
 
-1. [WHAT INFORMATION DO WE COLLECT?](#what-information-do-we-collect)
+1. [WHAT INFORMATION DO WE COLLECT?](#1-what-information-do-we-collect)
 
-2. [HOW DO WE PROCESS YOUR INFORMATION?](#how-do-we-process-your-information)
+2. [HOW DO WE PROCESS YOUR INFORMATION?](#2-how-do-we-process-your-information)
 
-3. [WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?](#when-and-with-whom-do-we-share-your-personal-information)
+3. [WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?](#3-when-and-with-whom-do-we-share-your-personal-information)
 
-4. [DO WE OFFER ARTIFICIAL INTELLIGENCE-BASED PRODUCTS?](#do-we-offer-artificial-intelligence-based-products)
+4. [DO WE OFFER ARTIFICIAL INTELLIGENCE-BASED PRODUCTS?](#4-do-we-offer-artificial-intelligence-based-products)
 
-5. [HOW LONG DO WE KEEP YOUR INFORMATION?](#how-long-do-we-keep-your-information)
+5. [HOW LONG DO WE KEEP YOUR INFORMATION?](#5-how-long-do-we-keep-your-information)
 
-6. [HOW DO WE KEEP YOUR INFORMATION SAFE?](#how-do-we-keep-your-information-safe)
+6. [HOW DO WE KEEP YOUR INFORMATION SAFE?](#6-how-do-we-keep-your-information-safe)
 
-7. [DO WE COLLECT INFORMATION FROM MINORS?](#do-we-collect-information-from-minors)
+7. [DO WE COLLECT INFORMATION FROM MINORS?](#7-do-we-collect-information-from-minors)
 
-8. [WHAT ARE YOUR PRIVACY RIGHTS?](#what-are-your-privacy-rights)
+8. [WHAT ARE YOUR PRIVACY RIGHTS?](#8-what-are-your-privacy-rights)
 
-9. [CONTROLS FOR DO-NOT-TRACK FEATURES](#controls-for-do-not-track-features)
+9. [CONTROLS FOR DO-NOT-TRACK FEATURES](#9-controls-for-do-not-track-features)
 
-10. [DO WE MAKE UPDATES TO THIS NOTICE?](#do-we-make-updates-to-this-notice)
+10. [DO WE MAKE UPDATES TO THIS NOTICE?](#10-do-we-make-updates-to-this-notice)
 
-11. [HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#how-can-you-contact-us-about-this-notice)
+11. [HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#11-how-can-you-contact-us-about-this-notice)
 
-12. [HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?](#how-can-you-review-update-or-delete-the-data-we-collect-from-you)
+12. [HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?](#12-how-can-you-review-update-or-delete-the-data-we-collect-from-you)
 
 ## 1. WHAT INFORMATION DO WE COLLECT?
 
