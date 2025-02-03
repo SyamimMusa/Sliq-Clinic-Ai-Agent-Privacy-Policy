@@ -77,10 +77,8 @@ We collection personal information that you voluntarily provide to us when you e
 
 All personal information that you provide to us must be true, compelte, and accurate, and you must notify us of any changes to such personal information. 
 
-<span style="display:none">
-##information collected
-</span>
-**Information collected when you use our services**. We by default are able to access your basic Whatsapp account information, including your display name, your mobile number and any messages you sent to our Whatsapp through your own Whatsapp account.
+
+<a id="information-collected"></a>**Information collected when you use our services**. We by default are able to access your basic Whatsapp account information, including your display name, your mobile number and any messages you sent to our Whatsapp through your own Whatsapp account.
 
 ## 2. HOW DO WE PROCESS YOUR INFORMATION?
 
