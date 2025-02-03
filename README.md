@@ -19,9 +19,9 @@ This Privacy Notice for Saltyskins Sdn Bhd ("**We**", "**us**, or "**our**), des
 
 **Do we collect any information from third parties?** We do not collect any information from third parties.
 
-**How do we process your information?** we process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so. Learn more about [how we process your information](#we-process-your-personal-information-for-a-variety-of-reasons-depending-on-how-you-interact-with-our-services-including)
+**How do we process your information?** we process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so. Learn more about [how we process your information](#how-we-process-personal-information)
 
-**In what situations and with which parties do we share personal information?** We may share information in specific situations and with specific third parties. Learn more about [when and with whom we share your personal information](#we-may-need-to-share-your-personal-information-in-the-following-situations).
+**In what situations and with which parties do we share personal information?** We may share information in specific situations and with specific third parties. Learn more about [when and with whom we share your personal information](#why-we-share-personal-information).
 
 **How do we keep your information safe?** We have adequate organizational and technical processes and procedures in place to protect your personal information. However, no electronic transmission over the internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Learn more about [how we keep your information safe](#6-how-do-we-keep-your-information-safe).
 
@@ -84,7 +84,7 @@ All personal information that you provide to us must be true, compelte, and accu
 
 ***In short:*** _we process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent.
 
-**We process your personal information for a variety of reasons, depending on how you interact with our Services, including:**
+<a id="how-we-process-personal-information"></a>**We process your personal information for a variety of reasons, depending on how you interact with our Services, including:**
 
 * **To respond to user inquiries/offer support to users**. We may process your information to respond to your inquiries and solve any potential issues you might have with the requested service.
 
@@ -94,7 +94,7 @@ All personal information that you provide to us must be true, compelte, and accu
 
 ***In Short:*** _We may share information in specific situations described in this section and/or with the following third parties. 
 
-We may need to share your personal information in the following situations:
+<a id="why-we-share-personal-information"></a>We may need to share your personal information in the following situations:
 
 * **Business Transfers**. We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
 
