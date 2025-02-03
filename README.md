@@ -11,19 +11,25 @@ This Privacy Notice for Saltyskins Sdn Bhd ("**We**", "**us**, or "**our**), des
 
 ## SUMMARY OF KEY POINTS
 
-***This summary provides key points from our Privacy Notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our table of contents below to find the section you are looking for.***
+***This summary provides key points from our Privacy Notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our [table of contents](#table-of-contents) below to find the section you are looking for.***
 
-**What personal information do we process?** Some of the information may be considered "special" or "sensitive" in certain jurisdictions, for example your racial or ethnic origins and religious beliefs. We may process sensitive personal information when necessary with your consent or as otherwise permitted by applicable law. Learn more about how we process your information.
+**What personal information do we process?** When you use our Services, we may process personal information depending on how you interact with us and the Services, the choices you make, and the products and features you use. Learn more about [personal information you disclose to use](#personal-information-you-disclose-to-us)
 
-**In what situations and with which parties do we share personal information?** We may share information in specific situations and with specific third parties. Learn more about when and with whom we share your personal information.
+**Do we process any sensitive personal informations?** Some of the information may be considered "special" or "sensitive" in certain jurisdictions, for example your racial or ethnic origins and religious beliefs. We may process sensitive personal information when necessary with your consent or as otherwise permitted by applicable law. Learn more about [sensitive information we process.](#information-collected-when-you-use-our-services)
 
-**How do we keep your information safe?** We have adequate organizational and technical processes and procedures in place to protect your personal information. However, no electronic transmission over the internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Learn more about how we keep your information safe.
+**Do we collect any information from third parties?** We do not collect any information from third parties.
 
-**What are your rights?** Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. Learn more about your privacy rights.
+**How do we process your information?** we process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so. Learn more about [how we process your information](#we-process-your-personal-information-for-a-variety-of-reasons-depending-on-how-you-interact-with-our-services-including)
 
-**How do you exercise your rights?** The easiest way to exercise your rights is by submitting a data subject access request, or by contacting us. We will consider and act upon any request in accordance with applicable data protection laws.
+**In what situations and with which parties do we share personal information?** We may share information in specific situations and with specific third parties. Learn more about [when and with whom we share your personal information](#we-may-need-to-share-your-personal-information-in-the-following-situations).
 
-Want to learn more about what we do with any information we collect? Review the Privacy Notice in full.
+**How do we keep your information safe?** We have adequate organizational and technical processes and procedures in place to protect your personal information. However, no electronic transmission over the internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Learn more about [how we keep your information safe](#6-how-do-we-keep-your-information-safe).
+
+**What are your rights?** Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. Learn more about [your privacy rights](#8-what-are-your-privacy-rights).
+
+**How do you exercise your rights?** The easiest way to exercise your rights is by contacting us. We will consider and act upon any request in accordance with applicable data protection laws.
+
+Want to learn more about what we do with any information we collect? [Review the Privacy Notice in full](#1-what-information-do-we-collect).
 
 ## TABLE OF CONTENTS
 
@@ -53,7 +59,7 @@ Want to learn more about what we do with any information we collect? Review the 
 
 ## 1. WHAT INFORMATION DO WE COLLECT?
 
-### Personal information you disclose to use
+### Personal information you disclose to us
 
 ***In short***: _We collect personal information that you provide to us._
 
@@ -70,6 +76,8 @@ We collection personal information that you voluntarily provide to us when you e
 * health data
 
 All personal information that you provide to us must be true, compelte, and accurate, and you must notify us of any changes to such personal information. 
+
+**Information collected when you use our services**. We by default are able to access your basic Whatsapp account information, including your display name, your mobile number and any messages you sent to our Whatsapp through your own Whatsapp account.
 
 ## 2. HOW DO WE PROCESS YOUR INFORMATION?
 
@@ -146,7 +154,7 @@ If you become aware of any data we may have collected from children under age 18
 
 **In Short:** You may review, change, or terminate your account at any time, depending on your country, province, or state of residence.
 
-**Withdrawing your consent:** If we are relying on your consent to process your personal information, which may be express and/or implied consent depending on the applicable law, you have the right to withdraw your consent at any time. You can withdraw your consent at any time by contacting us using the contact details provided in the section **"HOW CAN YOU CONTACT US ABOUT THIS NOTICE?"** below.
+**Withdrawing your consent:** If we are relying on your consent to process your personal information, which may be express and/or implied consent depending on the applicable law, you have the right to withdraw your consent at any time. You can withdraw your consent at any time by contacting us using the contact details provided in the section  below.
 
 However, please note that this will not affect the lawfulness of the processing before its withdrawal nor, when applicable law allows, will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent.
 
